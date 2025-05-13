@@ -1,5 +1,5 @@
 let nome = "gabigol"; //nome do herói
-let xp = 1000; // nivel do herói
+let xp = 7500; // nivel do herói
 let nível = "";
 
 //tomada de decisão 
